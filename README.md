@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Function
+### `Function`
 
 Add, Delte, Edit, Search Note
 
